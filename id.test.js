@@ -6,7 +6,7 @@ it('should get proper type', function()) {
 
   if (resultType !== expectedResustType) {
     throw new Error(
-      "Expected ${expectedResust}, but got ${resultType}"
+      "Expected ${expectedResustType}, but got ${resultType}"
     )
   }
 }
