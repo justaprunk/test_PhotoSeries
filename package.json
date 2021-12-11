@@ -1,8 +1,0 @@
-{
-  "name": "testapp",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "mocha *.test.js"
-}
-
-npm install mocha --save-dev
